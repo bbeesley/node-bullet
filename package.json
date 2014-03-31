@@ -1,0 +1,27 @@
+{
+    "name": "node-bullet",
+    "version": "0.0.0",
+    "description": "Yet another node module for the pushbullet API.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/bbeesley/node-bullet.git"
+    },
+    "keywords": [
+        "node",
+        "pushbullet",
+        "api"
+    ],
+    "author": {
+        "name": "Bill Beesley",
+        "email": "bbeesley@me.com",
+        "url": "http://billbeesley.com"
+    },
+    "license": "GPLv2",
+    "bugs": {
+        "url": "https://github.com/bbeesley/node-bullet/issues"
+    }
+}
