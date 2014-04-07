@@ -34,3 +34,22 @@ Requests a list of devices registered to the current API key from the server. Th
 * `error` - either null, or an error object passed from the request method
 * `response` - full details of the server response
 * `data` - the parsed JSON response from the API
+
+Example Response:
+```javascript
+{
+   "devices":[
+      {
+         "iden": "u1qSJddxeKwOGuGW",
+         "extras":{
+            "manufacturer":"samsung",
+            "model":"Galaxy Nexus",
+            "android_version":"4.1.1",
+            "sdk_version":"16",
+            "app_version":"8",
+            "nickname":"Galaxy Nexus"
+         }
+      }
+   ],
+}
+```
