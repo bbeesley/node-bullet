@@ -24,7 +24,7 @@
         "email": "bbeesley@me.com",
         "url": "http://billbeesley.com"
     },
-    "license": "GPLv2",
+    "license": "GPL-2.0",
     "bugs": {
         "url": "https://github.com/bbeesley/node-bullet/issues"
     }
